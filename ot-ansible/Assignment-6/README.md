@@ -3,7 +3,7 @@
 ## Must Do ##
 
 **Create a playbook that will do the following**
-*  stall apache
+*  Install apache
 *  Create a apache home page with your name and System Information.
 *  Reload apache
 
