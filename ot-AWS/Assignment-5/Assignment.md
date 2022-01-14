@@ -2,7 +2,7 @@
 ## Assgnment-5 ##
 ## Task-1 ##
 
-**Create a ASG for CPU utilization greater than 40% and check the status.**
+**Create a ASG for CPU utilization greater than 40% and check the status ?**
 
 Go on **Services** and **EC2** option
 
